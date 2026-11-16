@@ -19,6 +19,30 @@ It also includes role-based stock approval and automatic audit logging.
 - **Audit Logging:** Records previous and new stock quantities, approver identity, and timestamps.
 - **Streamlit Interface:** Provides an interactive application for users and administrators.
 
+
+## Application Screenshots
+
+### 1. AI Inventory Assistant
+Ask questions about inventory levels and identify low-stock products.
+
+![Inventory Assistant](screenshots/01-inventory-assistant.png)
+
+### 2. RAG-Based SOP Question Answering
+Retrieve inventory policies and procedures from the SOP document.
+
+![SOP RAG Answer](screenshots/02-sop-rag-answer.png)
+
+### 3. Admin Stock Approval
+Review proposed stock changes before an administrator approves them.
+
+![Admin Stock Approval](screenshots/03-admin-stock-approval.png)
+
+### 4. Stock Audit History
+Track previous and new stock quantities, approver identity and timestamps.
+
+![Stock Audit History](screenshots/04-stock-audit-history.png)
+
+
 ## Technology Stack
 
 | Component | Technology |
