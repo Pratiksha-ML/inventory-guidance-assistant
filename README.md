@@ -71,30 +71,21 @@ It also includes role-based stock approval and automatic audit logging.
 - Ollama installed
 - Git
 
+
 ### 1. Clone the repository
 
-```bash
-git clone <your-github-repository-url>
-cd <your-project-folder>
-```
+git clone https://github.com/Pratiksha-ML/inventory-guidance-assistant.git
+
+cd inventory-guidance-assistant
 
 ### 2. Create a virtual environment
 
-```bash
 python -m venv .venv
-```
-
-Activate it on Windows:
-
-```powershell
-.\.venv\Scripts\Activate.ps1
-```
 
 ### 3. Install dependencies
 
-```bash
-pip install streamlit langchain langchain-ollama langgraph sentence-transformers faiss-cpu pymupdf werkzeug numpy
-```
+pip install -r requirements.txt
+
 
 ### 4. Download the local LLM
 
