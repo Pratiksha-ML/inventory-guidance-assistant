@@ -1,0 +1,21 @@
+# Inventory Management Standard Operating Procedure
+
+## 1. Purpose
+This document defines basic inventory management guidelines.
+
+## 2. Minimum Stock Policy
+Every product must maintain a minimum stock level as defined in the inventory database.
+
+## 3. Low Stock Identification
+A product is considered low stock when its available quantity is below its defined minimum stock level.
+
+## 4. Replenishment Guidelines
+When a product falls below its minimum stock level, the inventory team should review its replenishment requirements.
+
+The suggested replenishment quantity should bring the available stock back to at least the minimum stock level.
+
+## 5. Out of Stock Policy
+When available stock reaches zero, the inventory team should prioritize reviewing the product availability and replenishment requirements.
+
+## 6. Approval
+All purchase orders and stock-changing actions require approval from an authorized team member.
